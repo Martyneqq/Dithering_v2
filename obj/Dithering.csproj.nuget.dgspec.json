@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj": {}
+  },
+  "projects": {
+    "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj",
+        "projectName": "Dithering",
+        "projectPath": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj",
+        "packagesPath": "/Users/martincepela/.nuget/packages/",
+        "outputPath": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martincepela/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

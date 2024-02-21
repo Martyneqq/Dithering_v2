@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJ5bhKBlKwZg2HVbRyx+w59SIFKUNpQh7Z8mOKx+E2m3m/8topfd9KaFYReDDypSfDOBxdPLbwDKwQo7cmzpUg==",
+  "success": true,
+  "projectFilePath": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj",
+  "expectedPackageFiles": [
+    "/Users/martincepela/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/martincepela/.nuget/packages/microsoft.windowsdesktop.app.ref/3.1.0/microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
