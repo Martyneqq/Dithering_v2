@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj": {}
+    "C:\\Users\\cepel\\source\\repos\\Martyneqq\\Dithering_v2\\Dithering.csproj": {}
   },
   "projects": {
-    "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj": {
+    "C:\\Users\\cepel\\source\\repos\\Martyneqq\\Dithering_v2\\Dithering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj",
+        "projectUniqueName": "C:\\Users\\cepel\\source\\repos\\Martyneqq\\Dithering_v2\\Dithering.csproj",
         "projectName": "Dithering",
-        "projectPath": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/Dithering.csproj",
-        "packagesPath": "/Users/martincepela/.nuget/packages/",
-        "outputPath": "/Users/martincepela/Desktop/Semestr 5/POGR1/Dithering/Dithering/obj/",
+        "projectPath": "C:\\Users\\cepel\\source\\repos\\Martyneqq\\Dithering_v2\\Dithering.csproj",
+        "packagesPath": "C:\\Users\\cepel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cepel\\source\\repos\\Martyneqq\\Dithering_v2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/martincepela/.config/NuGet/NuGet.Config"
+          "C:\\Users\\cepel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,21 +51,10 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -66,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
